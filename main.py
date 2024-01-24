@@ -1,0 +1,3 @@
+from analisis.analisisDeCanasta import anizarCanastaBasica
+
+anizarCanastaBasica()
